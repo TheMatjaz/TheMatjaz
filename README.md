@@ -1,16 +1,17 @@
-### Hi there 👋
+The collection of my tiny, but useful projects.
 
-<!--
-**TheMatjaz/TheMatjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code I'm proud of
 
-Here are some ideas to get you started:
+- The [LibAscon](https://github.com/TheMatjaz/LibAscon) and [LibISAAC](https://github.com/TheMatjaz/LibISAAC) cryptographic C libraries
+- The minimal unit-testing C framework for embedded devices [Atto](https://github.com/TheMatjaz/atto)
+- The [RangeForce](https://github.com/TheMatjaz/Rangeforce) and [Contfrac](https://github.com/TheMatjaz/contfrac) Python libraries ([find them on Pypi.org!](https://pypi.org/user/TheMatjaz/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- ❓ How is my name [pronounced](https://matjaz.it/name)?
+- 💻 I'm a software engineer
+- 📚 I enjoy writing optimised cross-platform ISO C and Python libraries.
+- 🚀 Clean code and good project organisation!
+- 😄 I love security and databases.
+- 🌱 I'm trying to explore Rust.
+- 💬 Contact me: [Email](mailto:dev@matjaz.it), [LinkedIn](https://www.linkedin.com/in/matjazgustin/)
